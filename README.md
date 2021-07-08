@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meinor25
-- 🌱 I’m currently learning mongoDB, express, node, pythom ...
+- 🌱 I’m currently learning mongoDB, express, node, python...
 
 
 <!---
