@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meinor25
-- 💻 I know, JavaScript, vue, node, express
-- 🌱 I’m currently learning mongoDB, express, node, python...
+- 💻 Technologies i know: JavaScript, vue, node, express
+- 🌱 I’m currently learning mongoDB, python...
 
 
 <!---
